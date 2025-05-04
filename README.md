@@ -1,2 +1,2 @@
 # REACT_TASKS_LINK
-Uploading Assignments
+Task 1:https://saideepthi2002.github.io/Profilr_Card/
