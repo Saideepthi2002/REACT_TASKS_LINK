@@ -13,4 +13,4 @@ Task 6: https://redux-cart-manager.vercel.app/
 
 Task 7: https://react-e-commercer-mini-app-qssq.vercel.app/
 
-React_ScreenTest: https://react-screen-test.vercel.app/
+ReactST: https://react-screen-test.vercel.app/
